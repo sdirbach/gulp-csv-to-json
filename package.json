@@ -1,8 +1,8 @@
 {
-	"name": "gulp-csv-to-json",
+	"name": "gulp-csv-to-json-ng",
 	"description": "convert csv to json",
 	"version": "0.2.0",
-	"homepage": "https://github.com/sdirbach/gulp-csv-to-json.git",
+	"homepage": "https://github.com/sdirbach/gulp-csv-to-json-ng.git",
 	"author": {
 		"name": "Sascha Dirbach",
 		"email": "sascha.dirbach@endless-webservices.de",
@@ -10,14 +10,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/sdirbach/gulp-csv-to-json.git"
+		"url": "git+https://github.com/sdirbach/gulp-csv-to-json-ng.git"
 	},
 	"bugs": {
-		"url": "https://github.com/sdirbach/gulp-csv-to-json/issues"
+		"url": "https://github.com/sdirbach/gulp-csv-to-json-ng/issues"
 	},
 	"licenses": [{
 		"type": "MIT",
-		"url": "https://github.com/sdirbach/gulp-csv-to-json/blob/master/LICENSE-MIT"
+		"url": "https://github.com/sdirbach/gulp-csv-to-json-ng/blob/master/LICENSE-MIT"
 	}],
 	"engines": {
 		"node": ">= 0.10.33"
